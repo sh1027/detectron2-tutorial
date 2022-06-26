@@ -15,10 +15,10 @@ AIコンソーシアムの講義 (2022年 物体検出入門) で使用
 
 #### タスク
 
-- object detection 
-- instance segmentation 
-- keypoint detection 
-- panoptic segmentation
+- Object detection 
+- Instance segmentation 
+- Keypoint detection 
+- Panoptic segmentation
 
 ### 公式チュートリアルからの主な変更点
 
